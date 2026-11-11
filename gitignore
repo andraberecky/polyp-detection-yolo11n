@@ -1,0 +1,13 @@
+# Dataset and generated data
+kvasir-seg.zip
+kvasir_dataset/
+kvasir_yolo/
+
+# Training runs
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
